@@ -41,5 +41,5 @@ tasks.named('test') {
 }
 
 tasks.named('bootJar') {
-	mainClass.set('com.crado.github_action_demo.GithubActionDemoApllication')
+	mainClass.set('com.crado.github_action_demo.GithubActionDemoApplication')
 }
